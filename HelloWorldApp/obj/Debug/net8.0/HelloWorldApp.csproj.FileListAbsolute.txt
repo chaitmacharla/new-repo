@@ -1,0 +1,15 @@
+/workspaces/new-repo/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/workspaces/new-repo/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/workspaces/new-repo/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/workspaces/new-repo/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/workspaces/new-repo/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.sourcelink.json
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/workspaces/new-repo/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
